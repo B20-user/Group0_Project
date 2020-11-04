@@ -6,7 +6,6 @@ public class TC_Beslan {
         char myLetter = 'D';
         boolean myBool = true;
         String myText = "Hello";
-        //add more things
     }
 }
 
